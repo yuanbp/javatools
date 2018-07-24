@@ -1,0 +1,2833 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<w:document xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:m="http://schemas.openxmlformats.org/officeDocument/2006/math" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:wp14="http://schemas.microsoft.com/office/word/2010/wordprocessingDrawing" xmlns:wp="http://schemas.openxmlformats.org/drawingml/2006/wordprocessingDrawing" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" xmlns:w14="http://schemas.microsoft.com/office/word/2010/wordml" xmlns:wpg="http://schemas.microsoft.com/office/word/2010/wordprocessingGroup" xmlns:wpi="http://schemas.microsoft.com/office/word/2010/wordprocessingInk" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" xmlns:wps="http://schemas.microsoft.com/office/word/2010/wordprocessingShape" mc:Ignorable="w14 wp14">
+	<w:body>
+		<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006C5806">
+			<w:pPr>
+				<w:jc w:val="center"/>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:noProof/>
+				</w:rPr>
+				<mc:AlternateContent>
+					<mc:Choice Requires="wps">
+						<w:drawing>
+							<wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251659264" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+								<wp:simplePos x="0" y="0"/>
+								<wp:positionH relativeFrom="column">
+									<wp:posOffset>3175</wp:posOffset>
+								</wp:positionH>
+								<wp:positionV relativeFrom="paragraph">
+									<wp:posOffset>182880</wp:posOffset>
+								</wp:positionV>
+								<wp:extent cx="6858000" cy="0"/>
+								<wp:effectExtent l="9525" t="7620" r="9525" b="11430"/>
+								<wp:wrapNone/>
+								<wp:docPr id="2" name="直接箭头连接符 2"/>
+								<wp:cNvGraphicFramePr>
+									<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"/>
+								</wp:cNvGraphicFramePr>
+								<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+									<a:graphicData uri="http://schemas.microsoft.com/office/word/2010/wordprocessingShape">
+										<wps:wsp>
+											<wps:cNvCnPr>
+												<a:cxnSpLocks noChangeShapeType="1"/>
+											</wps:cNvCnPr>
+											<wps:spPr bwMode="auto">
+												<a:xfrm>
+													<a:off x="0" y="0"/>
+													<a:ext cx="6858000" cy="0"/>
+												</a:xfrm>
+												<a:prstGeom prst="straightConnector1">
+													<a:avLst/>
+												</a:prstGeom>
+												<a:noFill/>
+												<a:ln w="9525">
+													<a:solidFill>
+														<a:srgbClr val="000000"/>
+													</a:solidFill>
+													<a:round/>
+													<a:headEnd/>
+													<a:tailEnd/>
+												</a:ln>
+												<a:extLst>
+													<a:ext uri="{909E8E84-426E-40DD-AFC4-6F175D3DCCD1}">
+														<a14:hiddenFill xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main">
+															<a:noFill/>
+														</a14:hiddenFill>
+													</a:ext>
+												</a:extLst>
+											</wps:spPr>
+											<wps:bodyPr/>
+										</wps:wsp>
+									</a:graphicData>
+								</a:graphic>
+								<wp14:sizeRelH relativeFrom="page">
+									<wp14:pctWidth>0</wp14:pctWidth>
+								</wp14:sizeRelH>
+								<wp14:sizeRelV relativeFrom="page">
+									<wp14:pctHeight>0</wp14:pctHeight>
+								</wp14:sizeRelV>
+							</wp:anchor>
+						</w:drawing>
+					</mc:Choice>
+					<mc:Fallback>
+						<w:pict>
+							<v:shapetype id="_x0000_t32" coordsize="21600,21600" o:spt="32" o:oned="t" path="m,l21600,21600e" filled="f">
+								<v:path arrowok="t" fillok="f" o:connecttype="none"/>
+								<o:lock v:ext="edit" shapetype="t"/>
+							</v:shapetype>
+							<v:shape id="直接箭头连接符 2" o:spid="_x0000_s1026" type="#_x0000_t32" style="position:absolute;left:0;text-align:left;margin-left:.25pt;margin-top:14.4pt;width:540pt;height:0;z-index:251659264;visibility:visible;mso-wrap-style:square;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;mso-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bottom:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:text;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-relative:page" o:gfxdata="UEsDBBQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbJSRQU7DMBBF&#xA;90jcwfIWJU67QAgl6YK0S0CoHGBkTxKLZGx5TGhvj5O2G0SRWNoz/78nu9wcxkFMGNg6quQqL6RA&#xA;0s5Y6ir5vt9lD1JwBDIwOMJKHpHlpr69KfdHjyxSmriSfYz+USnWPY7AufNIadK6MEJMx9ApD/oD&#xA;OlTrorhX2lFEilmcO2RdNtjC5xDF9pCuTyYBB5bi6bQ4syoJ3g9WQ0ymaiLzg5KdCXlKLjvcW893&#xA;SUOqXwnz5DrgnHtJTxOsQfEKIT7DmDSUCaxw7Rqn8787ZsmRM9e2VmPeBN4uqYvTtW7jvijg9N/y&#xA;JsXecLq0q+WD6m8AAAD//wMAUEsDBBQABgAIAAAAIQA4/SH/1gAAAJQBAAALAAAAX3JlbHMvLnJl&#xA;bHOkkMFqwzAMhu+DvYPRfXGawxijTi+j0GvpHsDYimMaW0Yy2fr2M4PBMnrbUb/Q94l/f/hMi1qR&#xA;JVI2sOt6UJgd+ZiDgffL8ekFlFSbvV0oo4EbChzGx4f9GRdb25HMsYhqlCwG5lrLq9biZkxWOiqY&#xA;22YiTra2kYMu1l1tQD30/bPm3wwYN0x18gb45AdQl1tp5j/sFB2T0FQ7R0nTNEV3j6o9feQzro1i&#xA;OWA14Fm+Q8a1a8+Bvu/d/dMb2JY5uiPbhG/ktn4cqGU/er3pcvwCAAD//wMAUEsDBBQABgAIAAAA&#xA;IQD4pQ3kPgIAAEcEAAAOAAAAZHJzL2Uyb0RvYy54bWysU8GO0zAQvSPxD5bv3SSlLW3UdIWSlssC&#xA;lXb5ANd2GovEtmy3aYX4BX4AiRNwAk5752tg+QzGblN14YIQOThjj+fNm5nn6eWuqdGWGyuUzHBy&#xA;EWPEJVVMyHWGX94semOMrCOSkVpJnuE9t/hy9vDBtNUp76tK1YwbBCDSpq3OcOWcTqPI0oo3xF4o&#xA;zSU4S2Ua4mBr1hEzpAX0po76cTyKWmWYNopya+G0ODjxLOCXJafuRVla7lCdYeDmwmrCuvJrNJuS&#xA;dG2IrgQ90iD/wKIhQkLSE1RBHEEbI/6AagQ1yqrSXVDVRKosBeWhBqgmiX+r5roimodaoDlWn9pk&#xA;/x8sfb5dGiRYhvsYSdLAiO7e3f54+/Hu65fvH25/fnvv7c+fUN+3qtU2hYhcLo0vlu7ktb5S9JVF&#xA;UuUVkWseKN/sNeAkPiK6F+I3VkPCVftMMbhDNk6Fvu1K03hI6AjahfHsT+PhO4coHI7Gw3EcwxRp&#xA;54tI2gVqY91TrhrkjQxbZ4hYVy5XUoIIlElCGrK9ss7TImkX4LNKtRB1HbRQS9RmeDLsD0OAVbVg&#xA;3umvWbNe5bVBW+LVFL5QI3jOrxm1kSyAVZyw+dF2RNQHG5LX0uNBYUDnaB3k8noST+bj+XjQG/RH&#xA;894gLorek0U+6I0WyeNh8ajI8yJ546klg7QSjHHp2XXSTQZ/J43jIzqI7iTeUxui++ihX0C2+wfS&#xA;YbJ+mAdZrBTbL003cVBruHx8Wf45nO/BPn//s18AAAD//wMAUEsDBBQABgAIAAAAIQCqc15n2QAA&#xA;AAcBAAAPAAAAZHJzL2Rvd25yZXYueG1sTI7NasJAFIX3gu8w3EI3UmcMWNKYiYjQRZdVodsxc5vE&#xA;Zu6EzMSkPn2vdNEuzw/nfPl2cq24Yh8aTxpWSwUCqfS2oUrD6fj6lIII0ZA1rSfU8I0BtsV8lpvM&#xA;+pHe8XqIleARCpnRUMfYZVKGskZnwtJ3SJx9+t6ZyLKvpO3NyOOulYlSz9KZhvihNh3uayy/DoPT&#xA;gGFYr9TuxVWnt9u4+Ehul7E7av34MO02ICJO8a8Md3xGh4KZzn4gG0SrYc09DUnK/PdUpYqd868j&#xA;i1z+5y9+AAAA//8DAFBLAQItABQABgAIAAAAIQC2gziS/gAAAOEBAAATAAAAAAAAAAAAAAAAAAAA&#xA;AABbQ29udGVudF9UeXBlc10ueG1sUEsBAi0AFAAGAAgAAAAhADj9If/WAAAAlAEAAAsAAAAAAAAA&#xA;AAAAAAAALwEAAF9yZWxzLy5yZWxzUEsBAi0AFAAGAAgAAAAhAPilDeQ+AgAARwQAAA4AAAAAAAAA&#xA;AAAAAAAALgIAAGRycy9lMm9Eb2MueG1sUEsBAi0AFAAGAAgAAAAhAKpzXmfZAAAABwEAAA8AAAAA&#xA;AAAAAAAAAAAAmAQAAGRycy9kb3ducmV2LnhtbFBLBQYAAAAABAAEAPMAAACeBQAAAAA=&#xA;"/>
+						</w:pict>
+					</mc:Fallback>
+				</mc:AlternateContent>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:noProof/>
+				</w:rPr>
+				<w:drawing>
+					<wp:anchor distT="0" distB="0" distL="114300" distR="114300" simplePos="0" relativeHeight="251660288" behindDoc="0" locked="0" layoutInCell="1" allowOverlap="1">
+						<wp:simplePos x="0" y="0"/>
+						<wp:positionH relativeFrom="column">
+							<wp:posOffset>2540</wp:posOffset>
+						</wp:positionH>
+						<wp:positionV relativeFrom="paragraph">
+							<wp:posOffset>-56515</wp:posOffset>
+						</wp:positionV>
+						<wp:extent cx="1093470" cy="405130"/>
+						<wp:effectExtent l="0" t="0" r="0" b="0"/>
+						<wp:wrapNone/>
+						<wp:docPr id="1" name="图片 1" descr="GZYLogo(1)"/>
+						<wp:cNvGraphicFramePr>
+							<a:graphicFrameLocks xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main" noChangeAspect="1"/>
+						</wp:cNvGraphicFramePr>
+						<a:graphic xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main">
+							<a:graphicData uri="http://schemas.openxmlformats.org/drawingml/2006/picture">
+								<pic:pic xmlns:pic="http://schemas.openxmlformats.org/drawingml/2006/picture">
+									<pic:nvPicPr>
+										<pic:cNvPr id="0" name="图片 2" descr="GZYLogo(1)"/>
+										<pic:cNvPicPr>
+											<a:picLocks noChangeAspect="1" noChangeArrowheads="1"/>
+										</pic:cNvPicPr>
+									</pic:nvPicPr>
+									<pic:blipFill>
+										<a:blip>
+											<a:extLst>
+												<a:ext uri="{28A0092B-C50C-407E-A947-70E740481C1C}">
+													<a14:useLocalDpi xmlns:a14="http://schemas.microsoft.com/office/drawing/2010/main" val="0"/>
+												</a:ext>
+											</a:extLst>
+										</a:blip>
+										<a:srcRect/>
+										<a:stretch>
+											<a:fillRect/>
+										</a:stretch>
+									</pic:blipFill>
+									<pic:spPr bwMode="auto">
+										<a:xfrm>
+											<a:off x="0" y="0"/>
+											<a:ext cx="1093470" cy="405130"/>
+										</a:xfrm>
+										<a:prstGeom prst="rect">
+											<a:avLst/>
+										</a:prstGeom>
+										<a:solidFill>
+											<a:srgbClr val="FFFFFF"/>
+										</a:solidFill>
+									</pic:spPr>
+								</pic:pic>
+							</a:graphicData>
+						</a:graphic>
+						<wp14:sizeRelH relativeFrom="page">
+							<wp14:pctWidth>0</wp14:pctWidth>
+						</wp14:sizeRelH>
+						<wp14:sizeRelV relativeFrom="page">
+							<wp14:pctHeight>0</wp14:pctHeight>
+						</wp14:sizeRelV>
+					</wp:anchor>
+				</w:drawing>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:hint="eastAsia"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:hint="eastAsia"/>
+				</w:rPr>
+				<w:t>合同编号：</w:t>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:hint="eastAsia"/>
+				</w:rPr>
+				<w:t>CN_1807138EE92</w:t>
+			</w:r>
+		</w:p>
+		<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006C5806">
+			<w:pPr>
+				<w:spacing w:line="343" w:lineRule="exact"/>
+				<w:ind w:left="4240"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:b/>
+					<w:sz w:val="30"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:b/>
+					<w:sz w:val="30"/>
+				</w:rPr>
+				<w:t>设备租赁合同</w:t>
+			</w:r>
+		</w:p>
+		<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006C5806">
+			<w:pPr>
+				<w:spacing w:line="343" w:lineRule="exact"/>
+				<w:ind w:left="4240"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:b/>
+					<w:sz w:val="30"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006C5806">
+			<w:pPr>
+				<w:tabs>
+					<w:tab w:val="left" w:pos="2205"/>
+					<w:tab w:val="left" w:pos="2760"/>
+					<w:tab w:val="left" w:pos="3375"/>
+				</w:tabs>
+				<w:spacing w:line="206" w:lineRule="exact"/>
+				<w:ind w:left="20"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="17"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="18"/>
+				</w:rPr>
+				<w:t>本租赁合同由双方于 20</w:t>
+			</w:r>
+			<w:r w:rsidRPr="005D5544">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:u w:val="single"/>
+					<w:t>18</w:t>
+				</w:rPr>
+				<w:tab/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="18"/>
+				</w:rPr>
+				<w:t>年</w:t>
+			</w:r>
+			<w:r w:rsidRPr="005D5544">
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+					<w:sz w:val="18"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r w:rsidRPr="005D5544">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:tab/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="18"/>
+				</w:rPr>
+				<w:t>月</w:t>
+			</w:r>
+			<w:r w:rsidRPr="005D5544">
+				<w:rPr>
+					<w:rFonts w:ascii="Times New Roman" w:eastAsia="Times New Roman" w:hAnsi="Times New Roman"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:tab/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="17"/>
+				</w:rPr>
+				<w:t>日在</w:t>
+			</w:r>
+			<w:r w:rsidRPr="00C43D6E">
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+					<w:sz w:val="17"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="17"/>
+					<w:u w:val="single"/>
+				</w:rPr>
+				<w:t xml:space="preserve"/>
+			</w:r>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="17"/>
+				</w:rPr>
+				<w:t>签署，本合同由第一部分商务条款，第二部分租赁通用条款（</w:t>
+			</w:r>
+			<w:proofErr w:type="gramStart"/>
+			<w:r w:rsidRPr="00271C67">
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="17"/>
+				</w:rPr>
+				<w:t>见合同</w:t>
+			</w:r>
+			<w:proofErr w:type="gramEnd"/>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:sz w:val="17"/>
+				</w:rPr>
+				<w:t>背面）组成。</w:t>
+			</w:r>
+		</w:p>
+		<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006C5806">
+			<w:pPr>
+				<w:spacing w:line="400" w:lineRule="exact"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:b/>
+					<w:sz w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+			<w:r>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:b/>
+					<w:sz w:val="21"/>
+				</w:rPr>
+				<w:t>第一部分 商务条款</w:t>
+			</w:r>
+		</w:p>
+		<w:tbl>
+			<w:tblPr>
+				<w:tblW w:w="0" w:type="auto"/>
+				<w:jc w:val="center"/>
+				<w:tblBorders>
+					<w:top w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+					<w:left w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+					<w:bottom w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+					<w:right w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+					<w:insideH w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+					<w:insideV w:val="single" w:sz="4" w:space="0" w:color="auto"/>
+				</w:tblBorders>
+				<w:tblLayout w:type="fixed"/>
+				<w:tblLook w:val="04A0" w:firstRow="1" w:lastRow="0" w:firstColumn="1" w:lastColumn="0" w:noHBand="0" w:noVBand="1"/>
+			</w:tblPr>
+			<w:tblGrid>
+				<w:gridCol w:w="1526"/>
+				<w:gridCol w:w="1166"/>
+				<w:gridCol w:w="393"/>
+				<w:gridCol w:w="1985"/>
+				<w:gridCol w:w="567"/>
+				<w:gridCol w:w="708"/>
+				<w:gridCol w:w="709"/>
+				<w:gridCol w:w="851"/>
+				<w:gridCol w:w="1822"/>
+				<w:gridCol w:w="1266"/>
+			</w:tblGrid>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="5070" w:type="dxa"/>
+						<w:gridSpan w:val="4"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>设备</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="4657" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>租金</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1266" w:type="dxa"/>
+						<w:vMerge w:val="restart"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>进退场费</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>（元/台）</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="240" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>设备</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>类别</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1559" w:type="dxa"/>
+						<w:gridSpan w:val="2"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="240" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>设备</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>型号</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1985" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="240" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>设备</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>数量（台）</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1275" w:type="dxa"/>
+						<w:gridSpan w:val="2"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="240" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>租赁方式</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="240" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1560" w:type="dxa"/>
+						<w:gridSpan w:val="2"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="240" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>租金单价（元/台）</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1822" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="240" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>预计租期(天)</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1266" w:type="dxa"/>
+						<w:vMerge/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:trHeight w:val="417"/>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>车载式</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1559" w:type="dxa"/>
+						<w:gridSpan w:val="2"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>车524</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1985" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>1</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1275" w:type="dxa"/>
+						<w:gridSpan w:val="2"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:proofErr w:type="gramStart"/>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>周租</w:t>
+						</w:r>
+						<w:proofErr w:type="gramEnd"/>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1560" w:type="dxa"/>
+						<w:gridSpan w:val="2"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>3,000</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1822" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>14</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1266" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>0</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>押金</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="4819" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>¥</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+							<w:t>0.00</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>，大写:</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>零元整</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="709" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>预计营收</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="3939" w:type="dxa"/>
+						<w:gridSpan w:val="3"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="MS PGothic" w:eastAsia="MS PGothic" w:hAnsi="MS PGothic"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>¥</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00F03A71">
+							<w:rPr>
+								<w:rFonts w:ascii="MS PGothic" w:hAnsi="MS PGothic" w:hint="eastAsia"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>6000.00</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t xml:space="preserve"> ，大写：</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>陆仟元整</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:trHeight w:val="627"/>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>合同</w:t>
+						</w:r>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>名称</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00FF0C4F" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="0" w:lineRule="atLeast"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>-景德镇-租赁合同</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:trHeight w:val="564"/>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>施工</w:t>
+						</w:r>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>地点</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00FF0C4F" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+								<w:szCs w:val="21"/>
+							</w:rPr>
+							<w:t>陕西省西安市雁塔区</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:trHeight w:val="498"/>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>设备运输</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:ind w:left="79"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>进场由（出租方□承租方□）安排运输；退场由（出租方□承租方□）安排运输。如无特殊约定，进退场费由承租方承担。设备进退场时，双方自行负责自己场地内的装卸、吊装。</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="219" w:lineRule="exact"/>
+							<w:ind w:left="80"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vMerge w:val="restart"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>结算</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>与</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>支付</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="Arial" w:eastAsia="Arial" w:hAnsi="Arial"/>
+								<w:b/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t xml:space="preserve">□ </w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>预付结算：</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>首次预付租金¥</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>，承租方支付后</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00172D7F">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>天</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>内设备进场；其他期租金以约定的计算周期为基础计算，于对应租期开始前每期租金结算日为当期期满次日。预付租金多于结算租金的，在设备退场后由出租方不计利息返还；少于结算租金的，由承租方在最后一期结算日后</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>天内补足。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vMerge/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="320" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="Arial" w:eastAsia="Arial" w:hAnsi="Arial"/>
+								<w:b/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t xml:space="preserve">□  </w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>周期结算：</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>每期租金结算日为：□当期期满的当日/□每月</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>日；末期租期不满一个结算周期的，设备退场次日为结算日。租金于结算日后</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>天内支付。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vMerge/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="320" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="Arial" w:eastAsia="Arial" w:hAnsi="Arial"/>
+								<w:b/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t xml:space="preserve">□  </w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>仅第一期预付，后续按周期结算并支付：</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>首次预付租金¥</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>，承租方支付后</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>天内设备进场；后续每期租金结算日为：□当期期满的当日/□每月</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>日；末期租期不满一个结算周期的，设备退场次日为结算日，租金于结算日后</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>天内支付。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vMerge/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>承租方应以电汇、支付宝、</w:t>
+						</w:r>
+						<w:proofErr w:type="gramStart"/>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>微信或</w:t>
+						</w:r>
+						<w:proofErr w:type="gramEnd"/>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t xml:space="preserve"> ATM 机</w:t>
+						</w:r>
+						<w:proofErr w:type="gramStart"/>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>转帐</w:t>
+						</w:r>
+						<w:proofErr w:type="gramEnd"/>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>的方式向出租方公司账户支付到期合同金额。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>部分费用约定</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>若由出租方配操作员，费用为¥</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00172D7F">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00172D7F">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>/人/日，每日工作限定 8 小时，超过后按¥</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00172D7F">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="21"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00172D7F">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>/时支付加班费；月租周期为自然月，</w:t>
+						</w:r>
+						<w:proofErr w:type="gramStart"/>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体" w:hint="eastAsia"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>周租</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>租期</w:t>
+						</w:r>
+						<w:proofErr w:type="gramEnd"/>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>为</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00E9073C">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>天，末期不满结算周期的，月租的每日每台按周期租金单价÷30，</w:t>
+						</w:r>
+						<w:proofErr w:type="gramStart"/>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>周租的</w:t>
+						</w:r>
+						<w:proofErr w:type="gramEnd"/>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>每日每台按照周期租金单价÷7。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>承租方</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1166" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>姓名</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="4362" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>身份证号（提供身份证复印件）</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="3939" w:type="dxa"/>
+						<w:gridSpan w:val="3"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>手机号</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>进退场授权人</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1166" w:type="dxa"/>
+						<w:vMerge w:val="restart"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="4362" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+						<w:vMerge w:val="restart"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="3939" w:type="dxa"/>
+						<w:gridSpan w:val="3"/>
+						<w:vMerge w:val="restart"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>结算授权人</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1166" w:type="dxa"/>
+						<w:vMerge/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="4362" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+						<w:vMerge/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="3939" w:type="dxa"/>
+						<w:gridSpan w:val="3"/>
+						<w:vMerge/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>出租方</w:t>
+						</w:r>
+						<w:proofErr w:type="gramStart"/>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>帐户</w:t>
+						</w:r>
+						<w:proofErr w:type="gramEnd"/>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>开户行：</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>其他约定</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>1、 若实际使用时间少于最短租期，则按照最短租期计算租金。若超过最短租期，按实际租期计算。</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:ind w:left="797" w:hangingChars="450" w:hanging="797"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>2、 因油漆、涂料、水泥、防腐材料等引起设备外表被覆盖的，出租方有权收取清洁费。电动剪刀车的设备清洁费</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>为</w:t>
+						</w:r>
+						<w:r w:rsidRPr="00AF4BEF">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>元以上/台，柴油剪刀车的设备清洁费为</w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t xml:space="preserve">元以上/台；臂式车清洁费为 </w:t>
+						</w:r>
+						<w:r>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+								<w:u w:val="single"/>
+							</w:rPr>
+							<w:t xml:space="preserve"/>
+						</w:r>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t xml:space="preserve"> 元以上/台。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="1526" w:type="dxa"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="008A1097" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="300" w:lineRule="exact"/>
+							<w:jc w:val="center"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="008A1097">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:spacing w:val="-10"/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+							<w:t>特别提示</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="9467" w:type="dxa"/>
+						<w:gridSpan w:val="9"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="400" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>1、承租方如对款项支付有任何异议，可拨打出租方监督电话核实：400-000-6160。</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="5637" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>承租方（盖章）：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>通讯地址：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>授权代表（签字）：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>联系方式：</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="5356" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+						<w:vAlign w:val="center"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>承租方保证人：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>身份证号：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>通讯地址：</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>联系方式：</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+			</w:tr>
+			<w:tr w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidTr="006E2CE4">
+				<w:trPr>
+					<w:jc w:val="center"/>
+				</w:trPr>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="5637" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>出租方：郑州容奕机械设备有限公司</w:t>
+						</w:r>
+					</w:p>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+						<w:r w:rsidRPr="00E32242">
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:w w:val="99"/>
+								<w:sz w:val="18"/>
+							</w:rPr>
+							<w:t>授权代表（签字）：</w:t>
+						</w:r>
+					</w:p>
+				</w:tc>
+				<w:tc>
+					<w:tcPr>
+						<w:tcW w:w="5356" w:type="dxa"/>
+						<w:gridSpan w:val="5"/>
+					</w:tcPr>
+					<w:p w:rsidR="006C5806" w:rsidRPr="00E32242" w:rsidRDefault="006C5806" w:rsidP="006E2CE4">
+						<w:pPr>
+							<w:spacing w:line="280" w:lineRule="exact"/>
+							<w:rPr>
+								<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+								<w:b/>
+								<w:sz w:val="21"/>
+							</w:rPr>
+						</w:pPr>
+					</w:p>
+				</w:tc>
+			</w:tr>
+		</w:tbl>
+		<w:p w:rsidR="006C5806" w:rsidRDefault="006C5806" w:rsidP="006C5806">
+			<w:pPr>
+				<w:spacing w:line="400" w:lineRule="exact"/>
+				<w:rPr>
+					<w:rFonts w:ascii="宋体" w:hAnsi="宋体"/>
+					<w:b/>
+					<w:sz w:val="21"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w:rsidR="006C5806" w:rsidRPr="0048384B" w:rsidRDefault="006C5806" w:rsidP="006C5806">
+			<w:pPr>
+				<w:rPr>
+					<w:sz w:val="30"/>
+					<w:szCs w:val="30"/>
+				</w:rPr>
+			</w:pPr>
+		</w:p>
+		<w:p w:rsidR="007C504C" w:rsidRDefault="007C504C">
+			<w:bookmarkStart w:id="0" w:name="_GoBack"/>
+			<w:bookmarkEnd w:id="0"/>
+		</w:p>
+		<w:sectPr w:rsidR="007C504C" w:rsidSect="0048384B">
+			<w:pgSz w:w="11906" w:h="16838"/>
+			<w:pgMar w:top="714" w:right="369" w:bottom="11" w:left="760" w:header="851" w:footer="992" w:gutter="0"/>
+			<w:cols w:space="425"/>
+			<w:docGrid w:type="lines" w:linePitch="312"/>
+		</w:sectPr>
+	</w:body>
+</w:document>

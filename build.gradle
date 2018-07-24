@@ -42,6 +42,10 @@ dependencies {
     compile "org.apache.commons:commons-lang3:${commonsv}"
     compile "javax.validation:validation-api:2.0.1.Final"
     compile "com.thoughtworks.xstream:xstream:1.4.10"
+    compile 'org.freemarker:freemarker:2.3.26-incubating'
+    compile "fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.core:1.0.5"
+    compile "fr.opensagres.xdocreport:org.apache.poi.xwpf.converter.pdf:1.0.5"
+    compile "fr.opensagres.xdocreport:fr.opensagres.xdocreport.itext.extension:1.0.5"
 }
 
 sourceSets {
