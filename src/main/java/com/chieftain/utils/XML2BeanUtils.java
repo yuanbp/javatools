@@ -1,5 +1,17 @@
 package com.chieftain.utils;
 
+import com.thoughtworks.xstream.XStream;
+import com.thoughtworks.xstream.io.xml.DomDriver;
+import org.xml.sax.InputSource;
+import org.xml.sax.XMLReader;
+
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBElement;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Marshaller;
+import javax.xml.bind.Unmarshaller;
+import javax.xml.transform.Source;
+import javax.xml.transform.sax.SAXSource;
 import java.io.ByteArrayInputStream;
 import java.io.File;
 import java.io.FileInputStream;
@@ -10,20 +22,6 @@ import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.Reader;
 import java.io.StringWriter;
-
-import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBElement;
-import javax.xml.bind.JAXBException;
-import javax.xml.bind.Marshaller;
-import javax.xml.bind.Unmarshaller;
-import javax.xml.transform.Source;
-import javax.xml.transform.sax.SAXSource;
-
-import org.xml.sax.InputSource;
-import org.xml.sax.XMLReader;
-
-import com.thoughtworks.xstream.XStream;
-import com.thoughtworks.xstream.io.xml.DomDriver;
 
 public class XML2BeanUtils {
 
@@ -55,6 +53,7 @@ public class XML2BeanUtils {
         marshaller.setProperty(Marshaller.JAXB_ENCODING, "utf-8"); // 编码格式
         marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true); // 是否格式化生成的xml串
         marshaller.setProperty(Marshaller.JAXB_FRAGMENT, false); // 是否省略xml头信息
+		marshaller.setListener(new MarshallerListener());
         StringWriter writer = new StringWriter();
         marshaller.marshal(rootObject, writer);
         return writer.toString();
