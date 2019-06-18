@@ -6,8 +6,6 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.chieftain.excel.User;
-
 /**
  * Java反射工具类
  * 
@@ -122,9 +120,9 @@ public class ReflectUtils {
 	@SuppressWarnings("unchecked")
 	public static void main(String[] args) throws Exception {
 		// getFields(User.class);
-		User u = new User();
-		invoke(u, "setName", new Class[] { String.class }, new Object[] { "xx发大水法大水法x" });
-		System.out.println(getFieldValue(u, "name"));
+//		User u = new User();
+//		invoke(u, "setName", new Class[] { String.class }, new Object[] { "xx发大水法大水法x" });
+//		System.out.println(getFieldValue(u, "name"));
 	}
 
 }
